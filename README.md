@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diwakar
+- 👋 Hi, I’m Diwakar
 - 👀 I’m interested in ... Networking, Cybersecurity
 - 🌱 I’m currently learning ...CCNA, Linux, Azure Cloud
 - 💞️ I’m looking to collaborate on ...real time networking projects and network security problems
